@@ -6,7 +6,7 @@ import Header from "./Header";
 const Layout = (props) => {
   return (
     <div>
-      <Container>
+      <Container style={{width:'100%'}}>
         <Head>
           <link
             rel="stylesheet"

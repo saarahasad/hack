@@ -10,14 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.5.1",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "file-saver": "^2.0.5",
     "fs-extra": "^10.0.0",
     "ganache-cli": "^6.12.2",
     "ipfs-api": "^26.1.2",
     "ipfs-http-client": "^58.0.1",
-    "mocha": "^9.1.2",
-    "next": "^10.1.3",
+    "mocha": "^9.2.2",
+    "next": "^10.2.3",
     "next-routes": "^1.4.2",
     "react": "^17.0.2",
     "react-code-blocks": "0.0.9-0",
@@ -27,6 +27,6 @@
     "solc": "^0.4.17",
     "truffle-hdwallet-provider": "0.0.3",
     "type": "module",
-    "web3": "^1.6.0"
+    "web3": "^1.8.1"
   }
 }
