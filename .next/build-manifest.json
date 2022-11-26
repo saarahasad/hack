@@ -29,10 +29,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/competitions/new": [
+    "/competitions/show": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/competitions/new.js"
+      "static/chunks/pages/competitions/show.js"
     ]
   },
   "ampFirstPages": []
